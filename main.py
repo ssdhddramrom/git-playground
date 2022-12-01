@@ -1,21 +1,6 @@
 import words_fetcher
 import random
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def congratulate_user_message():
     print("=============================")
     print("= Congratulations! You won! =")
